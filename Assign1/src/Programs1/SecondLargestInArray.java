@@ -16,8 +16,8 @@ public class SecondLargestInArray{
      }  
      public static void main(String args[]){  
         
-      int b[]={44,66,99,77,33,22,55};  
+      int a[]={87,12,5,81,54,58,9};  
        
-      System.out.println("Second Largest: "+getSecondLargest(b,7));  
+      System.out.println("Second Largest: "+getSecondLargest(a,7));  
      }
-}  
+}  //44,66,99,77,33,22,55
